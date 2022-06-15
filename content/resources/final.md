@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of papers from which students choose a topic for a final presentation.
-file: /media/courses/7-340-avoiding-genomic-instability-dna-replication-the-cell-cycle-and-cancer-fall-2006/67f4179e28a0ff89dab916993284c7b0_final.pdf
+file: /courses/7-340-avoiding-genomic-instability-dna-replication-the-cell-cycle-and-cancer-fall-2006/67f4179e28a0ff89dab916993284c7b0_final.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Papers for Final Presentation
 uid: 67f4179e-28a0-ff89-dab9-16993284c7b0
 ---
+A list of papers from which students choose a topic for a final presentation.
+
