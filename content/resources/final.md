@@ -5,6 +5,7 @@ file: /courses/7-340-avoiding-genomic-instability-dna-replication-the-cell-cycle
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Papers for Final Presentation
 uid: 67f4179e-28a0-ff89-dab9-16993284c7b0
 ---
 A list of papers from which students choose a topic for a final presentation.
-
