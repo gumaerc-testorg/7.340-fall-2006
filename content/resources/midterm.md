@@ -2,7 +2,8 @@
 content_type: resource
 description: This handout contains instructions for the mid-term assignment, and a
   list of paper topics from which to choose.
-file: /courses/7-340-avoiding-genomic-instability-dna-replication-the-cell-cycle-and-cancer-fall-2006/34db7e21c58c104ad2fa7d199218b323_midterm.pdf
+file: /ol-ocw-studio-app/courses/7-340-avoiding-genomic-instability-dna-replication-the-cell-cycle-and-cancer-fall-2006/34db7e21c58c104ad2fa7d199218b323_midterm.pdf
+file_size: 17788
 file_type: application/pdf
 learning_resource_types:
 - Assignments
