@@ -47,7 +47,7 @@ The Cell Cycle
 {{< tdopen >}}
 
 
-Evans, T., E. T. Rosenthal, J. Youngblom, D. Distel, and T. Hunt. "[Cyclin: A Protein Specified by Maternal mRNA in Sea Urchin Eggs that Is Destroyed at each Cleavage Division](http://www.ncbi.nlm.nih.gov/pubmed/6134587)." _Cell_ 33, no. 2 (1983): 389-396.
+Evans, T., E. T. Rosenthal, J. Youngblom, D. Distel, and T. Hunt. "{{% resource_link "b08c3eee-6125-49bf-a913-16dcef0895db" "Cyclin: A Protein Specified by Maternal mRNA in Sea Urchin Eggs that Is Destroyed at each Cleavage Division" %}}." _Cell_ 33, no. 2 (1983): 389-396.
 
 Shirodkar, S., M. Ewen, J. A. DeCaprio, J. Morgan, D. M. Livingston, and T. Chittenden. "The Transcription Factor E2F Interacts with the Retinoblastoma Product and a p107-Cyclin A Complex in a Cell Cycle-Regulated Manner." _Cell_ 68, no. 1 (1992): 157-166.
 
@@ -65,9 +65,9 @@ G1 Phase and Initiation of DNA Replication
 {{< tdopen >}}
 
 
-Donovan, S., J. Harwood, L. S. Drury, and J. F. Diffley. "Cdc6p-Dependent Loading of Mcm Proteins onto Pre-Replicative Chromatin in Budding Yeast." Proceedings of the National Academy of Sciences of the United States of America 94, no. 11 (1997): 5611-5616. ([PDF](http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=20826&blobtype=pdf))
+Donovan, S., J. Harwood, L. S. Drury, and J. F. Diffley. "Cdc6p-Dependent Loading of Mcm Proteins onto Pre-Replicative Chromatin in Budding Yeast." Proceedings of the National Academy of Sciences of the United States of America 94, no. 11 (1997): 5611-5616. ({{% resource_link "6718b293-db09-43c7-b014-320952e729ec" "PDF" %}})
 
-Mailand, N., and J. F. Diffley. "[CDKs Promote DNA Replication Origin Licensing in Human Cells by Protecting Cdc6 from APC/C-Dependent Proteolysis.](http://www.ncbi.nlm.nih.gov/pubmed/16153703)" _Cell_ 122, no. 6 (2005): 915-926.
+Mailand, N., and J. F. Diffley. "{{% resource_link "48f98004-7a22-4b28-8af5-7754f4c5ff8c" "CDKs Promote DNA Replication Origin Licensing in Human Cells by Protecting Cdc6 from APC/C-Dependent Proteolysis." %}}" _Cell_ 122, no. 6 (2005): 915-926.
 
 
 {{< tdclose >}}
@@ -83,9 +83,9 @@ S Phase and Replication Fork Regression
 {{< tdopen >}}
 
 
-Dimitrova, D. S., and D. M. Gilbert. "[The Spatial Position and Replication Timing of Chromosomal Domains Are both Established in Early G1 Phase](http://www.ncbi.nlm.nih.gov/pubmed/10635323)." _Molecular Cell_ 4, no. 6 (1999): 983-993.
+Dimitrova, D. S., and D. M. Gilbert. "{{% resource_link "2ebb2d39-2645-4928-87a4-4e0e571d0281" "The Spatial Position and Replication Timing of Chromosomal Domains Are both Established in Early G1 Phase" %}}." _Molecular Cell_ 4, no. 6 (1999): 983-993.
 
-Moyer, S. E., P. W. Lewis, and M. R. Botchan. "Isolation of the Cdc45/Mcm2-7/GINS (CMG) Complex, a Candidate for the Eukaryotic DNA Replication Fork Helicase." Proceedings of the National Academy of Sciences of the United States of America 103, no. 27 (2006): 10236-10241. ([PDF - 1.7 MB](http://www.pnas.org/cgi/reprint/103/27/10236.pdf))
+Moyer, S. E., P. W. Lewis, and M. R. Botchan. "Isolation of the Cdc45/Mcm2-7/GINS (CMG) Complex, a Candidate for the Eukaryotic DNA Replication Fork Helicase." Proceedings of the National Academy of Sciences of the United States of America 103, no. 27 (2006): 10236-10241. ({{% resource_link "c1fa23aa-ca2f-496e-a6e5-f8dd3c36dfab" "PDF - 1.7 MB" %}})
 
 
 {{< tdclose >}}
@@ -103,7 +103,7 @@ Cell Cycle Control of DNA Replication
 
 Hayles, J., D. Fisher, A. Woollard, and P. Nurse. "Temporal Order of S Phase and Mitosis in Fission Yeast Is Determined by the State of the p34cdc2 Mitotic B Cyclin Complex." _Cell_ 78, no. 5 (1994): 813-822.
 
-Nguyen, V. Q., C. Co, and J. J. Li. "[Cyclin-Dependent Kinases Prevent DNA Re-Replication through Multiple Mechanisms](https://dx.doi.org/10.1038/35082600)." _Nature_ 411, no. 6841 (2001): 1068-1073.
+Nguyen, V. Q., C. Co, and J. J. Li. "{{% resource_link "59c32fcc-178b-4e85-996d-b9b334918018" "Cyclin-Dependent Kinases Prevent DNA Re-Replication through Multiple Mechanisms" %}}." _Nature_ 411, no. 6841 (2001): 1068-1073.
 
 
 {{< tdclose >}}
@@ -119,7 +119,7 @@ Checkpoints
 {{< tdopen >}}
 
 
-Kuerbitz, S. J., B. S. Plunkett, W. V. Walsh, and M. B. Kastan. "Wild-Type p53 Is a Cell Cycle Checkpoint Determinant Following Irradiation." Proceedings of the National Academy of Sciences of the United States of America 89, no. 16 (1992): 7491-7495. ([PDF - 1.5 MB](http://www.pnas.org/cgi/reprint/89/16/7491.pdf))
+Kuerbitz, S. J., B. S. Plunkett, W. V. Walsh, and M. B. Kastan. "Wild-Type p53 Is a Cell Cycle Checkpoint Determinant Following Irradiation." Proceedings of the National Academy of Sciences of the United States of America 89, no. 16 (1992): 7491-7495. ({{% resource_link "6496b274-fad0-4675-8341-be87419ed94a" "PDF - 1.5 MB" %}})
 
 Katou, Y., Y. Kanoh, M. Bando, H. Noguchi, H. Tanaka, T. Ashikari, K.Sugimoto, and K. Shirahige. "S-Phase Checkpoint Proteins Tof1 and Mrc1 Form a Stable Replication-Pausing Complex." _Nature_ 424, no. 6952 (2003): 1078-1083.
 
@@ -167,7 +167,7 @@ Development and Endoreduplication
 {{< tdopen >}}
 
 
-Verkest, A., C. L. Manes, S. Vercruysse, S. Maes, E. Van Der Schueren, T. Beeckman, P. Genschik, M. Kuiper, D. Inze, and L. De Veylder. "The Cyclin-Dependent Kinase Inhibitor KRP2 Controls the Onset of the Endoreduplication Cycle during Arabidopsis Leaf Development through Inhibition of Mitotic CDKA; 1 Kinase Complexes." _The Plant Cell_ 17, no. 6 (2005): 1723-1736. ([PDF](http://www.plantcell.org/cgi/reprint/17/6/1723.pdf))
+Verkest, A., C. L. Manes, S. Vercruysse, S. Maes, E. Van Der Schueren, T. Beeckman, P. Genschik, M. Kuiper, D. Inze, and L. De Veylder. "The Cyclin-Dependent Kinase Inhibitor KRP2 Controls the Onset of the Endoreduplication Cycle during Arabidopsis Leaf Development through Inhibition of Mitotic CDKA; 1 Kinase Complexes." _The Plant Cell_ 17, no. 6 (2005): 1723-1736. ({{% resource_link "6dac2310-9a0a-437e-8535-8a27cb3c82ea" "PDF" %}})
 
 Gregoire, D., K. Brodolin, and M. Mechali. "HoxB Domain Induction Silences DNA Replication Origins in the Locus and Specifies a Single Origin at its Boundary." _EMBO Reports_ 7, no. 8 (2006): 812-816.
 
@@ -241,7 +241,7 @@ Viral Reprogramming of the Cell Cycle
 
 Yew, P. R. and A. J. Berk. "Inhibition of p53 Transactivation Required for Transformation by Adenovirus Early 1B Protein." _Nature_ 357, no. 6373 (1992): 82-85.
 
-Wiebusch, L., R. Uecker, and C. Hagemeier. "[Human Cytomegalovirus Prevents Replication Licensing by Inhibiting MCM Loading Onto Chromatin.](http://dx.doi.org/10.1038/sj.embor.embor707)" _EMBO Reports_ 4, no. 1 (2003): 42-46.
+Wiebusch, L., R. Uecker, and C. Hagemeier. "{{% resource_link "8a7cbe0d-0b87-410a-a127-0cd2fe44c5bc" "Human Cytomegalovirus Prevents Replication Licensing by Inhibiting MCM Loading Onto Chromatin." %}}" _EMBO Reports_ 4, no. 1 (2003): 42-46.
 
 
 {{< tdclose >}}

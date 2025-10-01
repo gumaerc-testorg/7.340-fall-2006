@@ -7,16 +7,16 @@ title: Related Resources
 uid: 4f6f6958-51a4-90e4-2ba2-42979511484c
 ---
 
-Wikipedia contributors. "[Small interfering RNA](http://en.wikipedia.org/w/index.php?title=Small_interfering_RNA&oldid=100510689)." Wikipedia, The Free Encyclopedia_,_ accessed January 22, 2007.
+Wikipedia contributors. "{{% resource_link "3aa309ab-3a1b-45dc-a25f-2bbf0667ed66" "Small interfering RNA" %}}." Wikipedia, The Free Encyclopedia_,_ accessed January 22, 2007.
 
-[Image of siRNA pathways](http://www.biochemj.org/bj/380/0593/bj3800593f01.htm?resolution=STD)
+{{% resource_link "90c2b2cc-f1a9-42bc-b15e-e8cc99c66d74" "Image of siRNA pathways" %}}
 
-Brewer, Bonita J. "[2-D Agarose Gel Electrophoresis of DNA Replication Intermediates](http://fangman-brewer.genetics.washington.edu/2Dgel.html)." October 28, 1991.
+Brewer, Bonita J. "{{% resource_link "d858da00-bbd9-438a-a9d7-ac6b28fcec9e" "2-D Agarose Gel Electrophoresis of DNA Replication Intermediates" %}}." October 28, 1991.
 
-[Animated 2D Gels by Jorge Bernardo Schvartzman Blinder](http://semicro.es/)
+{{% resource_link "511e6f92-6c1e-42fb-ba14-c9ce08951150" "Animated 2D Gels by Jorge Bernardo Schvartzman Blinder" %}}
 
-[Depiction of Chromatin Immunoprecipitation (ChIP)](http://www.bio.brandeis.edu/haberlab/jehsite/chip.html)
+{{% resource_link "fdfaeb1f-b8b0-410f-8879-3e62eb261295" "Depiction of Chromatin Immunoprecipitation (ChIP)" %}}
 
-[DNA Damage Checkpoint in Budding Yeast](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1170880/pdf/005525.pdf)
+{{% resource_link "fd7182bd-600e-4f6e-aeab-60d218a54738" "DNA Damage Checkpoint in Budding Yeast" %}}
 
-[Real-Time PCR: The TaqMan® Method](http://www.bio.davidson.edu/Courses/Molbio/MolStudents/spring2003/Pierce/realtimepcr.htm)
+{{% resource_link "71204797-ce98-4142-bf8f-4784a12253ed" "Real-Time PCR: The TaqMan® Method" %}}
